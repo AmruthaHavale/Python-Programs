@@ -1,3 +1,4 @@
+# Simpler code and decode
 # a new code
 print("---Welcome to Code And Decode.---")
 print("If you wanna covert a text into a code then type code.:)\nIf you wanna decode a code then type decode.:)")
@@ -31,4 +32,5 @@ else:
         else:
             nword = i
             newword.append(nword)
+
     print(" ".join(newword))
